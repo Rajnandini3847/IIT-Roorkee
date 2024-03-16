@@ -60,8 +60,14 @@ python main.py
 ```
 
 
-#### features
+#### Features
+*Interactive Learning Experience*: Woddy provides a gamified learning experience with daily tasks and engaging activities, fostering active participation and retention.
 
+*Comprehensive Word Information*: Unlike some platforms that focus solely on pronunciation, Woddy offers comprehensive word information including syllables, synonyms, and usage examples, enriching users' understanding of vocabulary.
+
+*uses five- six different agents*: More agents leads to lack of coordination , but it is seems that woddy is better in coordinating.
+
+*hugging-face-Api for Text to speech*- The given random word can be pronunciation.
 
 #### Use cases
 
@@ -69,10 +75,10 @@ python main.py
 ### Competitiors
 
 
-### Future Scope
 
-
-### Limitation
+### Future Scope & limitations 
+Due to the restrictions of using the given structure only in the fetch AI problem statement, it is needed to keep up with the labled stucture and not integrate any GUI in the product for the evaluation. 
+Though, we can present it as a complete product with understable pages. Here is the example of the UI/ UX we have completed for now. 
 
 
 Now you have the agents up and running to perform a learning platform integrations using the provided APIs. Happy integrating! 🎉
