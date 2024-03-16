@@ -1,5 +1,5 @@
 # Project Name ---- WODDY 
-(your agent for education and learning about mew words daily)
+(your agent for education and learning about new words daily)
 
 # uAgent WordsAPI Integrations Examples 
 # Requirements
