@@ -61,20 +61,28 @@ python main.py
 
 
 #### Features
-*Interactive Learning Experience*: Woddy provides a gamified learning experience with daily tasks and engaging activities, fostering active participation and retention.
+1. **Interactive Learning Experience**: Woddy provides a gamified learning experience with daily tasks and engaging activities, fostering active participation and retention.
 
-*Comprehensive Word Information*: Unlike some platforms that focus solely on pronunciation, Woddy offers comprehensive word information including syllables, synonyms, and usage examples, enriching users' understanding of vocabulary.
+2. **Comprehensive Word Information**: Unlike some platforms that focus solely on pronunciation, Woddy offers comprehensive word information including syllables, synonyms, and usage examples, enriching users' understanding of vocabulary.
 
-*uses five- six different agents*: More agents leads to lack of coordination , but it is seems that woddy is better in coordinating.
+3. **uses five- six different agents**: More agents leads to lack of coordination , but it is seems that woddy is better in coordinating.
 
-*hugging-face-Api for Text to speech*- The given random word can be pronunciation.
+4. **hugging-face-Api for Text to speech**- The given random word can be pronounced for better understanding of the speech. 
 
 #### Use cases
 
+1. *Student Learning Journey*: Students can explore new words daily, improve pronunciation, and deepen their understanding of language nuances.
+2. *Teacher-Student Interaction*: Teachers assign daily tasks to students, monitor their progress, and provide feedback to facilitate continuous learning.
+3. *Language Skill Enhancement*: Woddy serves as a valuable tool for enhancing language skills, aiding users in becoming effective communicators.
+4. *Engaging Learning Activities*: The platform offers engaging learning activities such as games and quizzes to make the learning process fun and interactive.
+
 
 ### Competitiors
+1. **Vocabify**: A similar platform offering word-learning features, quizzes, and interactive exercises.
+2. **WordMaster**: Another word-learning app with a focus on vocabulary building and language enhancement.
 
-
+# Why this 
+Comprehensive Word Information: Woddy provides users with comprehensive word information, including syllables, pronunciation, synonyms, parts of speech, types of nouns, and usage examples. This depth of detail sets Woddy apart, offering users a richer learning experience compared to competitors.
 
 ### Future Scope & limitations 
 Due to the restrictions of using the given structure only in the fetch AI problem statement, it is needed to keep up with the labled stucture and not integrate any GUI in the product for the evaluation. 
@@ -82,3 +90,5 @@ Though, we can present it as a complete product with understable pages. Here is 
 
 
 Now you have the agents up and running to perform a learning platform integrations using the provided APIs. Happy integrating! 🎉
+
+
