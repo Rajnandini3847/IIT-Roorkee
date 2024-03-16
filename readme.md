@@ -81,10 +81,10 @@ python main.py
 1. **Vocabify**: A similar platform offering word-learning features, quizzes, and interactive exercises.
 2. **WordMaster**: Another word-learning app with a focus on vocabulary building and language enhancement.
 
-# Why this 
+### Why this 
 Comprehensive Word Information: Woddy provides users with comprehensive word information, including syllables, pronunciation, synonyms, parts of speech, types of nouns, and usage examples. This depth of detail sets Woddy apart, offering users a richer learning experience compared to competitors in the market. 
 
-### Future Scope & limitations 
+# Future Scope & limitations 
 Due to the restrictions of using the given structure only in the fetch AI problem statement, it is needed to keep up with the labled stucture and not integrate any GUI in the product for the evaluation. 
 Though, we can present it as a complete product with understable pages. Here is the example of the UI/ UX we have completed for now. 
 
